@@ -1,2 +1,2 @@
-# C39-Debug-Part-1
-Fruit-Catcher-1-Project-39
+# Fruit-Catcher-1-Project-39
+C39-Debug-Part-1
